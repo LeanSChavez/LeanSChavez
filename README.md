@@ -14,4 +14,4 @@
 - [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
-📄 [[View my resume]](https://tinyurl.com/yyjsszjf)
+📄 [View my resume](https://tinyurl.com/yyjsszjf)
