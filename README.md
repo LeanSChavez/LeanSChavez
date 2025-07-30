@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, my name is Leandro 🧤
+ 
+💡 Electromechanic Technician
 
-<!--
-**LeanSChavez/LeanSChavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently pursuing a degree in Computer Programming (Technical Degree) at **UNSAM** (Universidad Nacional San Martin)
 
-Here are some ideas to get you started:
+🧠 I’m focused on learning:
+- Git and GitHub (branching, collaboration, version control)
+- Python and JavaScript basics
+- Web development (HTML, CSS, basic React)
+- Databases and SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Favorite resources I'm following:
+- [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+
+📄 [View my resume](link-a-tu-cv.pdf)
