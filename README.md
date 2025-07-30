@@ -14,4 +14,4 @@
 - [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
-📄 [View my resume]((https://github.com/LeanSChavez/LeanSChavez/blob/main/Curriculum%20-%20Chavez%20Leandro%20(EN).pdf))
+📄 [View my resume].(https://github.com/LeanSChavez/LeanSChavez/blob/main/Curriculum%20-%20Chavez%20Leandro%20(EN).pdf)
