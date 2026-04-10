@@ -14,9 +14,6 @@
 - [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
-📄 [View my resume](https://tinyurl.com/yyjsszjf)
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Lean.S.Chavez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leandro-chavez-792720377) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kitsus__) 
